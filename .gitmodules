@@ -1,0 +1,15 @@
+[submodule "note"]
+	path = note
+	url = https://github.com/SimonArduin/OC_DA_JAVA_P9_Note
+[submodule "patient"]
+	path = patient
+	url = https://github.com/SimonArduin/OC_DA_JAVA_P9_Patient
+[submodule "prediction"]
+	path = prediction
+	url = https://github.com/SimonArduin/OC_DA_JAVA_P9_Prediction
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/SimonArduin/OC_DA_JAVA_P9_Gateway
+[submodule "front"]
+	path = front
+	url = https://github.com/SimonArduin/OC_DA_JAVA_P9_Front
