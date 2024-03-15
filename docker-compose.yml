@@ -1,0 +1,25 @@
+services:
+  front:
+    image: front
+    ports:
+      - "8080:8080"
+
+  gateway:
+    image: gateway
+    ports:
+      - "8010:8010"
+
+  patient:
+    image: patient
+    ports:
+      - "8000:8000"
+
+  note:
+    image: note
+    ports:
+      - "8001:8001"
+
+  prediction:
+    image: prediction
+    ports:
+      - "8002:8002"
